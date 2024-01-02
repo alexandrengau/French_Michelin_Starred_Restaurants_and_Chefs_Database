@@ -10,6 +10,7 @@ This subdirectory contains the code and data extracted from the [Michelin Guide 
 
 To execute the crawling process, assuming you are in the root directory of this git:
 > cd michelin_guide_webscraping
+
 > scrapy crawl restaurant -O restaurant_scraped.json
 
 - **[michelin_guide_webscraping/restaurant-page.htm](michelin_guide_webscraping/restaurant-page.html)**: html file containing the crawled data from the website
