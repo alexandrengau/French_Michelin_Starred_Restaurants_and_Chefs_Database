@@ -15,20 +15,20 @@ The report can be viewed in the [report.pdf](report.pdf) file. It answers to the
 
 The rest of the instructions can be found below. If you want to copy and recreate this project, or test it for yourself, some important information to know.
 
-**requirements.txt**
+- **requirements.txt** :
 Among the good practice of datascience, we encourage you to use conda or virtualenv to create python environment. 
 To test your code, you are required to install the libraries of the [requirements.txt](requirements.txt) file.  
   > pip install -r requirements.txt
 
-**michelin_guide_webscraping**
+- **michelin_guide_webscraping** :
 The [michelin_guide_webscraping](michelin_guide_webscraping) subdirectory contains the code and the data extracted from the [Michelin Guide website](https://guide.michelin.com/fr/fr) concerning French starred restaurants (as of January 3rd, 2024).
 *More information about this part of the project : [michelin_guide_webscraping/README.md](michelin_guide_webscraping/README.md)*
 
-**wikipedia_michelin_stars**
+- **wikipedia_michelin_stars** :
 The [wikipedia_michelin_stars](wikipedia_michelin_stars) subdirectory contains the code and the data extracted from [Wikipedia's list of two and three starred restaurants](https://fr.wikipedia.org/wiki/Liste_des_restaurants_deux_et_trois_étoiles_du_Guide_Michelin) (as of January 3rd, 2024).
 *More information about this part of the project : [wikipedia_michelin_stars/README.md](wikipedia_michelin_stars/README.md)*
 
-**wikidata_chefs**
+- **wikidata_chefs** :
 The [wikidata_chefs](wikidata_chefs) subdirectory contains the data extracted from [Wikidata's SPARQL query service](https://query.wikidata.org) concerning French chefs and their distinctions (as of January 2024).
 *More information about this part of the project : [wikidata_chefs/README.md](wikidata_chefs/README.md)*
 
