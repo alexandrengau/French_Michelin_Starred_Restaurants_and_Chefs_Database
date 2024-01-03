@@ -38,9 +38,13 @@ class WikipediaSpider(scrapy.Spider):
         for row in rows:
             name = row.css('td:nth-child(3) i::text').get()
             name_i = row.css('td:nth-child(3) i a::text').get()
-
             # Concatenate name and name_it, handling null values
             restaurant_name = name + (' ' + name_i if name_i else '') if name else name_i
+
+            chef = row.css('td:nth-child(2) a::text').get()
+            chef_td = row.css('td:nth-child(2)::text').get()
+            # Concatenate chef and name_i, handling null values
+            chef_name = chef + (' ' + chef_td if chef_td else '') if chef else chef_td
 
             # Dictionary to store restaurant details
             restaurant = {
@@ -48,7 +52,7 @@ class WikipediaSpider(scrapy.Spider):
                 'restaurant-region': row.css('td:nth-child(6) a::text').get(),
                 'restaurant-city': row.css('td:nth-child(4) a::text').get(),
                 "restaurant-distinction": "3 star",
-                'restaurant-chef': row.css('td:nth-child(2) a::text').get(),
+                'restaurant-chef': chef_name,
             }
 
             # Check if the city is not None and the region is not in the excluded list
@@ -80,7 +84,6 @@ class WikipediaSpider(scrapy.Spider):
             name = row.css('td:nth-child(2) i::text').get()
             name_i = row.css('td:nth-child(2) i a::text').get()
             name_td = row.css('td:nth-child(2)::text').get()
-
             # Concatenate name and name_i, handling null values
             restaurant_name = ' '.join(filter(None, [name, name_i]))
             # If restaurant_name is still empty, use name_td
