@@ -29,6 +29,7 @@ def preprocess_data(input_path, output_path):
     # Print a message indicating that the file has been saved
     print(f"Preprocessed data saved to: {output_path}")
 
+
 if __name__ == "__main__":
     # Define input and output file paths
     input_file_path = './michelin_guide_webscraping/restaurant_scraped.json'

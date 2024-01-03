@@ -1,0 +1,702 @@
+[
+    {
+        "restaurant-name": "Le Bois sans Feuilles",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Ouches",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "C\u00e9sar Troisgros"
+    },
+    {
+        "restaurant-name": "Les Pr\u00e9s d'Eug\u00e9nie",
+        "restaurant-region": "Nouvelle-Aquitaine",
+        "restaurant-city": "Eug\u00e9nie-les-Bains",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Michel Gu\u00e9rard"
+    },
+    {
+        "restaurant-name": "Georges Blanc",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Vonnas",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Georges Blanc"
+    },
+    {
+        "restaurant-name": "L'Ambroisie",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Bernard Pacaud"
+    },
+    {
+        "restaurant-name": "Pierre Gagnaire",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Pierre Gagnaire"
+    },
+    {
+        "restaurant-name": "L'Arp\u00e8ge",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Alain Passard"
+    },
+    {
+        "restaurant-name": "Le Louis XV - Alain Ducasse",
+        "restaurant-region": "Monaco",
+        "restaurant-city": "Monte-Carlo",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Alain Ducasse"
+    },
+    {
+        "restaurant-name": "R\u00e9gis et Jacques Marcon",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Saint-Bonnet-le-Froid",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "R\u00e9gis Marcon"
+    },
+    {
+        "restaurant-name": "Le Pr\u00e9 Catelan",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Fr\u00e9d\u00e9ric Anton"
+    },
+    {
+        "restaurant-name": "Maison Pic",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Valence",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Anne-Sophie Pic"
+    },
+    {
+        "restaurant-name": "Le Petit Nice",
+        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
+        "restaurant-city": "Marseille 7",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "G\u00e9rald Pass\u00e9dat"
+    },
+    {
+        "restaurant-name": "Epicure au Bristol",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "\u00c9ric Frechon"
+    },
+    {
+        "restaurant-name": "Auberge du Vieux Puits",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "Fontjoncouse",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Gilles Goujon"
+    },
+    {
+        "restaurant-name": "Lameloise",
+        "restaurant-region": "Bourgogne-Franche-Comt\u00e9",
+        "restaurant-city": "Chagny",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "\u00c9ric Pras"
+    },
+    {
+        "restaurant-name": "Flocons de Sel",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Meg\u00e8ve",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Emmanuel Renaut"
+    },
+    {
+        "restaurant-name": "La Vague d'Or",
+        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
+        "restaurant-city": "Saint-Tropez",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Arnaud Donckele"
+    },
+    {
+        "restaurant-name": "L'Assiette Champenoise",
+        "restaurant-region": "Grand Est",
+        "restaurant-city": "Tinqueux",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Arnaud Lallement"
+    },
+    {
+        "restaurant-name": "Ledoyen",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Yannick All\u00e9no"
+    },
+    {
+        "restaurant-name": "La Bouitte",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Saint-Martin-de-Belleville",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": null
+    },
+    {
+        "restaurant-name": "Le Cinq de l' H\u00f4tel George-V",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Christian Le Squer"
+    },
+    {
+        "restaurant-name": "1947 au  Cheval Blanc",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Courchevel",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Yannick All\u00e9no"
+    },
+    {
+        "restaurant-name": "Le Clos des sens",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Annecy-le-Vieux",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Laurent Petit"
+    },
+    {
+        "restaurant-name": "Mirazur",
+        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
+        "restaurant-city": "Menton",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Mauro Colagreco"
+    },
+    {
+        "restaurant-name": "Kei",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Kei Kobayashi"
+    },
+    {
+        "restaurant-name": "L'Ousta\u00f9 de Baumani\u00e8re",
+        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
+        "restaurant-city": "Les Baux-de-Provence",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Glenn Viel"
+    },
+    {
+        "restaurant-name": "AM par Alexandre Mazzia",
+        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
+        "restaurant-city": "Marseille ",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Alexandre Mazzia"
+    },
+    {
+        "restaurant-name": "Pl\u00e9nitude au  Cheval Blanc",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Arnaud Donckele"
+    },
+    {
+        "restaurant-name": "La Villa Madie",
+        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
+        "restaurant-city": "Cassis",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Dimitri Droisneau"
+    },
+    {
+        "restaurant-name": "La Marine",
+        "restaurant-region": "Pays de la Loire",
+        "restaurant-city": "Noirmoutier-en-l'\u00cele",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Alexandre Couillon"
+    },
+    {
+        "restaurant-name": "La Palme d'Or",
+        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
+        "restaurant-city": "Cannes",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Christian Sinicropi"
+    },
+    {
+        "restaurant-name": "La Ch\u00e8vre d'Or",
+        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
+        "restaurant-city": "\u00c8ze",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Arnaud Faye"
+    },
+    {
+        "restaurant-name": "Hostellerie J\u00e9r\u00f4me",
+        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
+        "restaurant-city": "La Turbie",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Bruno Cirino"
+    },
+    {
+        "restaurant-name": "Villa Archange",
+        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
+        "restaurant-city": "Le Cannet",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Bruno Oger"
+    },
+    {
+        "restaurant-name": "Flaveur",
+        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
+        "restaurant-city": "Nice",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Micka\u00ebl et Ga\u00ebl Tourteaux"
+    },
+    {
+        "restaurant-name": "La Table de Franck Putelat",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "Carcassonne",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Franck Putelat"
+    },
+    {
+        "restaurant-name": "La Table Saint-Crescent",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "Narbonne",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Lionel Giraud"
+    },
+    {
+        "restaurant-name": "Bras",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "Laguiole",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "S\u00e9bastien Bras"
+    },
+    {
+        "restaurant-name": "Sa.Qua.Na",
+        "restaurant-region": "Normandie",
+        "restaurant-city": "Honfleur",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Alexandre Bourdas"
+    },
+    {
+        "restaurant-name": "Serge Vieira",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Chaudes-Aigues",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Serge Vieira"
+    },
+    {
+        "restaurant-name": "Casadelmar",
+        "restaurant-region": "Corse",
+        "restaurant-city": "Porto-Vecchio",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Fabio Bragagnolo"
+    },
+    {
+        "restaurant-name": "Hostellerie du Chapeau Rouge",
+        "restaurant-region": "Bourgogne-Franche-Comt\u00e9",
+        "restaurant-city": "Dijon",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "William Frachot"
+    },
+    {
+        "restaurant-name": "Le Relais Bernard Loiseau",
+        "restaurant-region": "Bourgogne-Franche-Comt\u00e9",
+        "restaurant-city": "Saulieu",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Patrick Bertron"
+    },
+    {
+        "restaurant-name": "Auberge des Glazicks",
+        "restaurant-region": "r\u00e9gion Bretagne",
+        "restaurant-city": "Plomodiern",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Olivier Bellin"
+    },
+    {
+        "restaurant-name": "Alexandre",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "Garons",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Michel Kayser"
+    },
+    {
+        "restaurant-name": "Duende",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "N\u00eemes",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Pierre Gagnaire \n"
+    },
+    {
+        "restaurant-name": "Py-r",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "Toulouse",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Pierre Lambinon"
+    },
+    {
+        "restaurant-name": "Le Puits Saint-Jacques",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "Pujaudran",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Bernard Bach"
+    },
+    {
+        "restaurant-name": "Le Pressoir d'Argent",
+        "restaurant-region": "Nouvelle-Aquitaine",
+        "restaurant-city": "Bordeaux",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Gordon Ramsay"
+    },
+    {
+        "restaurant-name": "Le Skiff Club",
+        "restaurant-region": "Nouvelle-Aquitaine",
+        "restaurant-city": "La Teste-de-Buch",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "St\u00e9phane Carrade"
+    },
+    {
+        "restaurant-name": "La Grand'Vigne",
+        "restaurant-region": "Nouvelle-Aquitaine",
+        "restaurant-city": "Martillac",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Nicolas Masse"
+    },
+    {
+        "restaurant-name": "La table de Pavie (H\u00f4tel de Pavie)",
+        "restaurant-region": "Nouvelle-Aquitaine",
+        "restaurant-city": "Saint-Emilion",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Yannick Alleno"
+    },
+    {
+        "restaurant-name": "Lalique",
+        "restaurant-region": "Nouvelle-Aquitaine",
+        "restaurant-city": "Bommes",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "J\u00e9r\u00f4me Schilling\n"
+    },
+    {
+        "restaurant-name": "Coquillage",
+        "restaurant-region": "r\u00e9gion Bretagne",
+        "restaurant-city": "Cancale",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Hugo Roellinger"
+    },
+    {
+        "restaurant-name": "Maison Aribert",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Uriage-les-Bains",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Christophe Aribert"
+    },
+    {
+        "restaurant-name": "La Pyramide",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Vienne",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Patrick Henriroux"
+    },
+    {
+        "restaurant-name": "Maison Jeunet",
+        "restaurant-region": "Bourgogne-Franche-Comt\u00e9",
+        "restaurant-city": "Port-Lesney",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Steven Naessens"
+    },
+    {
+        "restaurant-name": "Relais de la Poste",
+        "restaurant-region": "Nouvelle-Aquitaine",
+        "restaurant-city": "Magescq",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Jean Coussau"
+    },
+    {
+        "restaurant-name": "Fleur de Loire",
+        "restaurant-region": "Centre-Val de Loire",
+        "restaurant-city": "Blois",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Christophe Hay"
+    },
+    {
+        "restaurant-name": "Anne de Bretagne",
+        "restaurant-region": "Pays de la Loire",
+        "restaurant-city": "La Plaine-sur-Mer",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Mathieu Guibert"
+    },
+    {
+        "restaurant-name": "Le Parc (Les Cray\u00e8res)",
+        "restaurant-region": "Grand Est",
+        "restaurant-city": "Reims",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Philippe Mille"
+    },
+    {
+        "restaurant-name": "Racine",
+        "restaurant-region": "Grand Est",
+        "restaurant-city": "Reims",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Kazuyuki Tanaka"
+    },
+    {
+        "restaurant-name": "La Grenouill\u00e8re",
+        "restaurant-region": "Hauts-de-France",
+        "restaurant-city": "La Madelaine-sous-Montreuil",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Alexandre Gauthier"
+    },
+    {
+        "restaurant-name": "Le Pr\u00e9",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Durtol",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Xavier Beaudiment"
+    },
+    {
+        "restaurant-name": "Auberge du Cheval Blanc",
+        "restaurant-region": "Grand Est",
+        "restaurant-city": "Lembach",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Pascal Bastian"
+    },
+    {
+        "restaurant-name": "La Merise",
+        "restaurant-region": "Grand Est",
+        "restaurant-city": "Laubach",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "C\u00e9dric Deckert\n"
+    },
+    {
+        "restaurant-name": "La Fourchette des Ducs",
+        "restaurant-region": "Grand Est",
+        "restaurant-city": "Obernai",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Nicolas Stamm"
+    },
+    {
+        "restaurant-name": "Villa Ren\u00e9 Lalique",
+        "restaurant-region": "Grand Est",
+        "restaurant-city": "Wingen-sur-Moder",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Jean-Georges Klein"
+    },
+    {
+        "restaurant-name": "JY'S",
+        "restaurant-region": "Grand Est",
+        "restaurant-city": "Colmar",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Jean-Yves Schillinger"
+    },
+    {
+        "restaurant-name": "L'Auberge de l'Ill",
+        "restaurant-region": "Grand Est",
+        "restaurant-city": "Illhaeusern",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Paul et Marc Haeberlin"
+    },
+    {
+        "restaurant-name": "La Table d'Olivier Nasti",
+        "restaurant-region": "Grand Est",
+        "restaurant-city": "Kaysersberg",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Olivier Nasti"
+    },
+    {
+        "restaurant-name": "L'Auberge du Pont de Collonges",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Collonges-au-Mont-d'Or",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Paul Bocuse"
+    },
+    {
+        "restaurant-name": "Le Neuvi\u00e8me Art",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Lyon",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Christophe Roure"
+    },
+    {
+        "restaurant-name": "Takao Takano",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Lyon",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Takao Takano"
+    },
+    {
+        "restaurant-name": "M\u00e8re Brazier",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Lyon",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Mathieu Viannay"
+    },
+    {
+        "restaurant-name": "Le Chabichou",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Courchevel",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "St\u00e9phane Buron"
+    },
+    {
+        "restaurant-name": "Le Montgomerie",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Courchevel",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Pieter Riedijk"
+    },
+    {
+        "restaurant-name": "Sarkara",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Courchevel",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "S\u00e9bastien Vauxion"
+    },
+    {
+        "restaurant-name": "Les Moraini\u00e8res",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Jongieux",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Micha\u00ebl Arnoult"
+    },
+    {
+        "restaurant-name": "L'Atelier D'Edmond",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Val d'Is\u00e8re",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Benoit Vidal"
+    },
+    {
+        "restaurant-name": "Auberge du p\u00e8re Bise - Jean Sulpice",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Talloires",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Jean Sulpice"
+    },
+    {
+        "restaurant-name": " \u2013 Bord du Lac Restaurant Yoann Conte",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Veyrier-du-Lac",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Yoann Conte"
+    },
+    {
+        "restaurant-name": "Le Meurice",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Alain Ducasse"
+    },
+    {
+        "restaurant-name": "Sur Mesure par Thierry Marx",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Thierry Marx"
+    },
+    {
+        "restaurant-name": "Palais Royal Restaurant",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Philip Chronopoulos\n"
+    },
+    {
+        "restaurant-name": "David Toutain",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "David Toutain"
+    },
+    {
+        "restaurant-name": "La Sc\u00e8ne",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "St\u00e9phanie Le Quellec"
+    },
+    {
+        "restaurant-name": "L'Abysse au Pavillon Ledoyen",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Yannick All\u00e9no"
+    },
+    {
+        "restaurant-name": "Le Clarence",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Christophe Pel\u00e9"
+    },
+    {
+        "restaurant-name": "Le Gabriel",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "J\u00e9r\u00f4me Banctel"
+    },
+    {
+        "restaurant-name": "Le Grand Restaurant",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Jean-Fran\u00e7ois Pi\u00e8ge"
+    },
+    {
+        "restaurant-name": "Le Taillevent",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "David Bizet"
+    },
+    {
+        "restaurant-name": "Maison Rostang",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Michel Rostang"
+    },
+    {
+        "restaurant-name": "La Voile",
+        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
+        "restaurant-city": "Ramatuelle",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "\u00c9ric Canino"
+    },
+    {
+        "restaurant-name": "La C\u00f4te Saint Jacques",
+        "restaurant-region": "Bourgogne-Franche-Comt\u00e9",
+        "restaurant-city": "Joigny",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Jean-Michel Lorain"
+    },
+    {
+        "restaurant-name": "Auberge de Montmin\n",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Talloires-Montmin",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Florian Favario\n"
+    },
+    {
+        "restaurant-name": "Cyril Attrazic\n",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "Peyre en Aubrac",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Cyril Attrazic\n"
+    },
+    {
+        "restaurant-name": "Ch\u00e2teau de Beaulieu\n",
+        "restaurant-region": "Hauts-de-France",
+        "restaurant-city": "Busnes",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Christophe Dufoss\u00e9\n"
+    },
+    {
+        "restaurant-name": "L'Amaryllis\n",
+        "restaurant-region": "Bourgogne-Franche-Comt\u00e9",
+        "restaurant-city": "Saint-R\u00e9my",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "C\u00e9dric Burtin\n"
+    },
+    {
+        "restaurant-name": "Guy Savoy",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris ",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Guy Savoy"
+    },
+    {
+        "restaurant-name": "Christopher Coutanceau",
+        "restaurant-region": "r\u00e9gion Bretagne",
+        "restaurant-city": "La Rochelle",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Christopher Coutanceau"
+    }
+]
