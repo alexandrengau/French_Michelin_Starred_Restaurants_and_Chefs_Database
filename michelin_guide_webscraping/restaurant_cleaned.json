@@ -360,6 +360,186 @@
         "restaurant-menu-price": "250-190 EUR"
     },
     {
+        "restaurant-name": "Le Grand Cerf",
+        "restaurant-region": "Grand-Est",
+        "restaurant-city": "Montchenot",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Dominique Giraudeau",
+        "restaurant-cooking-type": "Cuisine classique",
+        "restaurant-menu-price": "197-45 EUR"
+    },
+    {
+        "restaurant-name": "Ima",
+        "restaurant-region": "Bretagne",
+        "restaurant-city": "Rennes",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Julien Lemari\u00e9",
+        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
+        "restaurant-menu-price": "120-60 EUR"
+    },
+    {
+        "restaurant-name": "La Table du Gourmet",
+        "restaurant-region": "Grand-Est",
+        "restaurant-city": "Riquewihr",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Jean-Luc Brendel",
+        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
+        "restaurant-menu-price": "180-125 EUR"
+    },
+    {
+        "restaurant-name": "Roz\u00f3",
+        "restaurant-region": "Hauts-de-France",
+        "restaurant-city": "Marcq-en-Bar\u0153ul",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "109-39 EUR"
+    },
+    {
+        "restaurant-name": "Rouge",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "N\u00eemes",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "",
+        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
+        "restaurant-menu-price": "130-85 EUR"
+    },
+    {
+        "restaurant-name": "La Table des P\u00e8res - Domaine du Ch\u00e2teau des P\u00e8res",
+        "restaurant-region": "Bretagne",
+        "restaurant-city": "Pir\u00e9-Chanc\u00e9",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "",
+        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
+        "restaurant-menu-price": "95-65 EUR"
+    },
+    {
+        "restaurant-name": "Arborescence",
+        "restaurant-region": "Hauts-de-France",
+        "restaurant-city": "Croix",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "",
+        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
+        "restaurant-menu-price": "80-40 EUR"
+    },
+    {
+        "restaurant-name": "Ezia",
+        "restaurant-region": "Centre-Val-de-Loire",
+        "restaurant-city": "Montlivault",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "78-38 EUR"
+    },
+    {
+        "restaurant-name": "Ch\u00e2teau d'Origny",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Ouches",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "105-49 EUR"
+    },
+    {
+        "restaurant-name": "Villa9Trois",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Montreuil",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "84-56 EUR"
+    },
+    {
+        "restaurant-name": "St\u00e9phane Tourni\u00e9 - Les Jardins de l'Op\u00e9ra",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "Toulouse",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "St\u00e9phane Tourni\u00e9",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "110-35 EUR"
+    },
+    {
+        "restaurant-name": "Le Fantin Latour - St\u00e9phane Froidevaux",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Grenoble",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "St\u00e9phane Froidevaux",
+        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
+        "restaurant-menu-price": "145-99 EUR"
+    },
+    {
+        "restaurant-name": "Le Art",
+        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
+        "restaurant-city": "Aix-en-Provence",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Matthieu Dupuis-Baumal",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "185-97 EUR"
+    },
+    {
+        "restaurant-name": "Maison Medard",
+        "restaurant-region": "Centre-Val-de-Loire",
+        "restaurant-city": "Boulleret",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Julien M\u00e9dard",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "75-28 EUR"
+    },
+    {
+        "restaurant-name": "Clos du C\u00e8dre",
+        "restaurant-region": "Bourgogne-Franche-Comt\u00e9",
+        "restaurant-city": "Beaune",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Jordan Billan",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "125-75 EUR"
+    },
+    {
+        "restaurant-name": "Briketenia",
+        "restaurant-region": "Nouvelle-Aquitaine",
+        "restaurant-city": "Gu\u00e9thary",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "David Ibarboure",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "111-42 EUR"
+    },
+    {
+        "restaurant-name": "Le Mas Bottero",
+        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
+        "restaurant-city": "Saint-Cannat",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Nicolas Bottero",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "90-30 EUR"
+    },
+    {
+        "restaurant-name": "Le Moulin de la Gorce",
+        "restaurant-region": "Nouvelle-Aquitaine",
+        "restaurant-city": "La Roche-l'Abeille",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Pierre Bertranet",
+        "restaurant-cooking-type": "Cuisine classique",
+        "restaurant-menu-price": "115-95 EUR"
+    },
+    {
+        "restaurant-name": "Restaurant de la Loire",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Pouilly-sous-Charlieu",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "78-35 EUR"
+    },
+    {
+        "restaurant-name": "La Table du 11",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Versailles",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Jean-Baptiste Lavergne-Morazzani",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "120-94 EUR"
+    },
+    {
         "restaurant-name": "Les Loges",
         "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
         "restaurant-city": "Lyon",
@@ -1438,6 +1618,186 @@
         "restaurant-chef": "Tomofumi Uchimura",
         "restaurant-cooking-type": "Cuisine moderne",
         "restaurant-menu-price": "120-35 EUR"
+    },
+    {
+        "restaurant-name": "La Table de Yoann Conte",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Veyrier-du-Lac",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Yoann Conte",
+        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
+        "restaurant-menu-price": "450-250 EUR"
+    },
+    {
+        "restaurant-name": "Le Coquillage",
+        "restaurant-region": "Bretagne",
+        "restaurant-city": "Saint-M\u00e9loir-des-Ondes",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Hugo Roellinger",
+        "restaurant-cooking-type": "Poissons et fruits de mer",
+        "restaurant-menu-price": "190-145 EUR"
+    },
+    {
+        "restaurant-name": "Ithurria",
+        "restaurant-region": "Nouvelle-Aquitaine",
+        "restaurant-city": "Ainhoa",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Xavier Isabal",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "95-74 EUR"
+    },
+    {
+        "restaurant-name": "Le Moulin de l'Abbaye",
+        "restaurant-region": "Nouvelle-Aquitaine",
+        "restaurant-city": "Brant\u00f4me",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Rams\u00e8s Navarro",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "125-70 EUR"
+    },
+    {
+        "restaurant-name": "\u00d4 Saveurs",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "Rouffiac-Tolosan",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "David Biasibetti",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "105-34 EUR"
+    },
+    {
+        "restaurant-name": "Umami",
+        "restaurant-region": "Grand-Est",
+        "restaurant-city": "Strasbourg",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Ren\u00e9 Fieger",
+        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
+        "restaurant-menu-price": "75-65 EUR"
+    },
+    {
+        "restaurant-name": "Atmosph\u00e8res",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Le Bourget-du-Lac",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Alain Perrillat-Mercerot",
+        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
+        "restaurant-menu-price": "160-60 EUR"
+    },
+    {
+        "restaurant-name": "Le Far\u00e7on",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Courchevel",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Julien Machet",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "120-65 EUR"
+    },
+    {
+        "restaurant-name": "Le P'tit Polyte",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Les Deux-Alpes",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Tanguy Rattier",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "132-86 EUR"
+    },
+    {
+        "restaurant-name": "Nakatani",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Shinsuke Nakatani",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "230-85 EUR"
+    },
+    {
+        "restaurant-name": "Au Gourmet",
+        "restaurant-region": "Grand-Est",
+        "restaurant-city": "Drusenheim",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Ludovic Kientz",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "82-29 EUR"
+    },
+    {
+        "restaurant-name": "La Chassagnette",
+        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
+        "restaurant-city": "Le Sambuc",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Armand Arnal",
+        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
+        "restaurant-menu-price": "135-85 EUR"
+    },
+    {
+        "restaurant-name": "Le Haut-Allier",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Alleyras",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Philippe Brun",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "110-58 EUR"
+    },
+    {
+        "restaurant-name": "La Barbacane",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "Carcassonne",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "J\u00e9r\u00f4me Ryon",
+        "restaurant-cooking-type": "Cuisine classique",
+        "restaurant-menu-price": "150-47 EUR"
+    },
+    {
+        "restaurant-name": "Christophe Hay - Fleur de Loire",
+        "restaurant-region": "Centre-Val-de-Loire",
+        "restaurant-city": "Blois",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Christophe Hay",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "218-98 EUR"
+    },
+    {
+        "restaurant-name": "Ivan Vautier",
+        "restaurant-region": "Normandie",
+        "restaurant-city": "Caen",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Ivan Vautier",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "120-48 EUR"
+    },
+    {
+        "restaurant-name": "Le Pr\u00e9 Catelan",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Fr\u00e9d\u00e9ric Anton",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "330-150 EUR"
+    },
+    {
+        "restaurant-name": "Table - Bruno Verjus",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Bruno Verjus",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "360-240 EUR"
+    },
+    {
+        "restaurant-name": "Septime",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Bertrand Gr\u00e9baut",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "110-65 EUR"
+    },
+    {
+        "restaurant-name": "Pur' - Jean-Fran\u00e7ois Rouquette",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Jean-Fran\u00e7ois Rouquette",
+        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
+        "restaurant-menu-price": "375-185 EUR"
     },
     {
         "restaurant-name": "L'Ar\u00f4me",
@@ -4500,186 +4860,6 @@
         "restaurant-menu-price": "110-40 EUR"
     },
     {
-        "restaurant-name": "Le Grand Cerf",
-        "restaurant-region": "Grand-Est",
-        "restaurant-city": "Montchenot",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Dominique Giraudeau",
-        "restaurant-cooking-type": "Cuisine classique",
-        "restaurant-menu-price": "197-45 EUR"
-    },
-    {
-        "restaurant-name": "Ima",
-        "restaurant-region": "Bretagne",
-        "restaurant-city": "Rennes",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Julien Lemari\u00e9",
-        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
-        "restaurant-menu-price": "120-60 EUR"
-    },
-    {
-        "restaurant-name": "La Table du Gourmet",
-        "restaurant-region": "Grand-Est",
-        "restaurant-city": "Riquewihr",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Jean-Luc Brendel",
-        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
-        "restaurant-menu-price": "180-125 EUR"
-    },
-    {
-        "restaurant-name": "Roz\u00f3",
-        "restaurant-region": "Hauts-de-France",
-        "restaurant-city": "Marcq-en-Bar\u0153ul",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "109-39 EUR"
-    },
-    {
-        "restaurant-name": "Rouge",
-        "restaurant-region": "Occitanie",
-        "restaurant-city": "N\u00eemes",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "",
-        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
-        "restaurant-menu-price": "130-85 EUR"
-    },
-    {
-        "restaurant-name": "La Table des P\u00e8res - Domaine du Ch\u00e2teau des P\u00e8res",
-        "restaurant-region": "Bretagne",
-        "restaurant-city": "Pir\u00e9-Chanc\u00e9",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "",
-        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
-        "restaurant-menu-price": "95-65 EUR"
-    },
-    {
-        "restaurant-name": "Arborescence",
-        "restaurant-region": "Hauts-de-France",
-        "restaurant-city": "Croix",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "",
-        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
-        "restaurant-menu-price": "80-40 EUR"
-    },
-    {
-        "restaurant-name": "Ezia",
-        "restaurant-region": "Centre-Val-de-Loire",
-        "restaurant-city": "Montlivault",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "78-38 EUR"
-    },
-    {
-        "restaurant-name": "Ch\u00e2teau d'Origny",
-        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
-        "restaurant-city": "Ouches",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "105-49 EUR"
-    },
-    {
-        "restaurant-name": "Villa9Trois",
-        "restaurant-region": "\u00cele-de-France",
-        "restaurant-city": "Montreuil",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "84-56 EUR"
-    },
-    {
-        "restaurant-name": "St\u00e9phane Tourni\u00e9 - Les Jardins de l'Op\u00e9ra",
-        "restaurant-region": "Occitanie",
-        "restaurant-city": "Toulouse",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "St\u00e9phane Tourni\u00e9",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "110-35 EUR"
-    },
-    {
-        "restaurant-name": "Le Fantin Latour - St\u00e9phane Froidevaux",
-        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
-        "restaurant-city": "Grenoble",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "St\u00e9phane Froidevaux",
-        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
-        "restaurant-menu-price": "145-99 EUR"
-    },
-    {
-        "restaurant-name": "Le Art",
-        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
-        "restaurant-city": "Aix-en-Provence",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Matthieu Dupuis-Baumal",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "185-97 EUR"
-    },
-    {
-        "restaurant-name": "Maison Medard",
-        "restaurant-region": "Centre-Val-de-Loire",
-        "restaurant-city": "Boulleret",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Julien M\u00e9dard",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "75-28 EUR"
-    },
-    {
-        "restaurant-name": "Clos du C\u00e8dre",
-        "restaurant-region": "Bourgogne-Franche-Comt\u00e9",
-        "restaurant-city": "Beaune",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Jordan Billan",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "125-75 EUR"
-    },
-    {
-        "restaurant-name": "Briketenia",
-        "restaurant-region": "Nouvelle-Aquitaine",
-        "restaurant-city": "Gu\u00e9thary",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "David Ibarboure",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "111-42 EUR"
-    },
-    {
-        "restaurant-name": "Le Mas Bottero",
-        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
-        "restaurant-city": "Saint-Cannat",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Nicolas Bottero",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "90-30 EUR"
-    },
-    {
-        "restaurant-name": "Le Moulin de la Gorce",
-        "restaurant-region": "Nouvelle-Aquitaine",
-        "restaurant-city": "La Roche-l'Abeille",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Pierre Bertranet",
-        "restaurant-cooking-type": "Cuisine classique",
-        "restaurant-menu-price": "115-95 EUR"
-    },
-    {
-        "restaurant-name": "Restaurant de la Loire",
-        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
-        "restaurant-city": "Pouilly-sous-Charlieu",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "78-35 EUR"
-    },
-    {
-        "restaurant-name": "La Table du 11",
-        "restaurant-region": "\u00cele-de-France",
-        "restaurant-city": "Versailles",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Jean-Baptiste Lavergne-Morazzani",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "120-94 EUR"
-    },
-    {
         "restaurant-name": "Les Sources de Fontbelle",
         "restaurant-region": "Nouvelle-Aquitaine",
         "restaurant-city": "Angoul\u00eame",
@@ -5040,339 +5220,6 @@
         "restaurant-menu-price": "159-115 EUR"
     },
     {
-        "restaurant-name": "Py-r",
-        "restaurant-region": "Occitanie",
-        "restaurant-city": "Toulouse",
-        "restaurant-distinction": "2 star",
-        "restaurant-chef": "Pierre Lambinon",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "128-98 EUR"
-    },
-    {
-        "restaurant-name": "Georges Blanc",
-        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
-        "restaurant-city": "Vonnas",
-        "restaurant-distinction": "3 star",
-        "restaurant-chef": "Georges Blanc",
-        "restaurant-cooking-type": "Cuisine classique",
-        "restaurant-menu-price": "345-250 EUR"
-    },
-    {
-        "restaurant-name": "Auberge St-Laurent",
-        "restaurant-region": "Grand-Est",
-        "restaurant-city": "Sierentz",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Laurent Arbeit",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "119-42 EUR"
-    },
-    {
-        "restaurant-name": "Auberge au B\u0153uf",
-        "restaurant-region": "Grand-Est",
-        "restaurant-city": "Sessenheim",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Yannick Germain",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "106-42 EUR"
-    },
-    {
-        "restaurant-name": "Ambroisie",
-        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
-        "restaurant-city": "Saint-Didier-de-la-Tour",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Andr\u00e9 Taormina",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "140-85 EUR"
-    },
-    {
-        "restaurant-name": "L'\u00c9puisette",
-        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
-        "restaurant-city": "Marseille",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Guillaume Sourrieu",
-        "restaurant-cooking-type": "Poissons et fruits de mer",
-        "restaurant-menu-price": "155-80 EUR"
-    },
-    {
-        "restaurant-name": "Ogata",
-        "restaurant-region": "\u00cele-de-France",
-        "restaurant-city": "Paris",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Kazuki Watanabe",
-        "restaurant-cooking-type": "Cuisine japonaise",
-        "restaurant-menu-price": "170-65 EUR"
-    },
-    {
-        "restaurant-name": "La Li\u00e9geoise",
-        "restaurant-region": "Hauts-de-France",
-        "restaurant-city": "Wimereux",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Benjamin Delpierre",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "115-61 EUR"
-    },
-    {
-        "restaurant-name": "Accents Table Bourse",
-        "restaurant-region": "\u00cele-de-France",
-        "restaurant-city": "Paris",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Romain Mahi",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "85-52 EUR"
-    },
-    {
-        "restaurant-name": "Le Jardin Secret",
-        "restaurant-region": "Grand-Est",
-        "restaurant-city": "La Wantzenau",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Gilles Leininger",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "80-38 EUR"
-    },
-    {
-        "restaurant-name": "Michel Sarran",
-        "restaurant-region": "Occitanie",
-        "restaurant-city": "Toulouse",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Michel Sarran",
-        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
-        "restaurant-menu-price": "195-75 EUR"
-    },
-    {
-        "restaurant-name": "Buerehiesel",
-        "restaurant-region": "Grand-Est",
-        "restaurant-city": "Strasbourg",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Eric Westermann",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "119-46 EUR"
-    },
-    {
-        "restaurant-name": "Au D\u00e9jeuner de Sousceyrac",
-        "restaurant-region": "Occitanie",
-        "restaurant-city": "Sousceyrac-en-Quercy",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Patrick Lagn\u00e8s",
-        "restaurant-cooking-type": "Cuisine classique",
-        "restaurant-menu-price": "100-30 EUR"
-    },
-    {
-        "restaurant-name": "La Table d'Aur\u00e9lien Largeau",
-        "restaurant-region": "Nouvelle-Aquitaine",
-        "restaurant-city": "Biarritz",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "175-110 EUR"
-    },
-    {
-        "restaurant-name": "1741",
-        "restaurant-region": "Grand-Est",
-        "restaurant-city": "Strasbourg",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "155-45 EUR"
-    },
-    {
-        "restaurant-name": "Au Crocodile",
-        "restaurant-region": "Grand-Est",
-        "restaurant-city": "Strasbourg",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Romain Brillat",
-        "restaurant-cooking-type": "Cuisine classique",
-        "restaurant-menu-price": "138-52 EUR"
-    },
-    {
-        "restaurant-name": "Le C\u00e9nacle",
-        "restaurant-region": "Occitanie",
-        "restaurant-city": "Toulouse",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Thomas Vonderscher",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "115-39 EUR"
-    },
-    {
-        "restaurant-name": "La Table de Yoann Conte",
-        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
-        "restaurant-city": "Veyrier-du-Lac",
-        "restaurant-distinction": "2 star",
-        "restaurant-chef": "Yoann Conte",
-        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
-        "restaurant-menu-price": "450-250 EUR"
-    },
-    {
-        "restaurant-name": "Le Coquillage",
-        "restaurant-region": "Bretagne",
-        "restaurant-city": "Saint-M\u00e9loir-des-Ondes",
-        "restaurant-distinction": "2 star",
-        "restaurant-chef": "Hugo Roellinger",
-        "restaurant-cooking-type": "Poissons et fruits de mer",
-        "restaurant-menu-price": "190-145 EUR"
-    },
-    {
-        "restaurant-name": "Ithurria",
-        "restaurant-region": "Nouvelle-Aquitaine",
-        "restaurant-city": "Ainhoa",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Xavier Isabal",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "95-74 EUR"
-    },
-    {
-        "restaurant-name": "Le Moulin de l'Abbaye",
-        "restaurant-region": "Nouvelle-Aquitaine",
-        "restaurant-city": "Brant\u00f4me",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Rams\u00e8s Navarro",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "125-70 EUR"
-    },
-    {
-        "restaurant-name": "\u00d4 Saveurs",
-        "restaurant-region": "Occitanie",
-        "restaurant-city": "Rouffiac-Tolosan",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "David Biasibetti",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "105-34 EUR"
-    },
-    {
-        "restaurant-name": "Umami",
-        "restaurant-region": "Grand-Est",
-        "restaurant-city": "Strasbourg",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Ren\u00e9 Fieger",
-        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
-        "restaurant-menu-price": "75-65 EUR"
-    },
-    {
-        "restaurant-name": "Atmosph\u00e8res",
-        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
-        "restaurant-city": "Le Bourget-du-Lac",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Alain Perrillat-Mercerot",
-        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
-        "restaurant-menu-price": "160-60 EUR"
-    },
-    {
-        "restaurant-name": "Le Far\u00e7on",
-        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
-        "restaurant-city": "Courchevel",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Julien Machet",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "120-65 EUR"
-    },
-    {
-        "restaurant-name": "Le P'tit Polyte",
-        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
-        "restaurant-city": "Les Deux-Alpes",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Tanguy Rattier",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "132-86 EUR"
-    },
-    {
-        "restaurant-name": "Nakatani",
-        "restaurant-region": "\u00cele-de-France",
-        "restaurant-city": "Paris",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Shinsuke Nakatani",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "230-85 EUR"
-    },
-    {
-        "restaurant-name": "Au Gourmet",
-        "restaurant-region": "Grand-Est",
-        "restaurant-city": "Drusenheim",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Ludovic Kientz",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "82-29 EUR"
-    },
-    {
-        "restaurant-name": "La Chassagnette",
-        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
-        "restaurant-city": "Le Sambuc",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Armand Arnal",
-        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
-        "restaurant-menu-price": "135-85 EUR"
-    },
-    {
-        "restaurant-name": "Le Haut-Allier",
-        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
-        "restaurant-city": "Alleyras",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Philippe Brun",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "110-58 EUR"
-    },
-    {
-        "restaurant-name": "La Barbacane",
-        "restaurant-region": "Occitanie",
-        "restaurant-city": "Carcassonne",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "J\u00e9r\u00f4me Ryon",
-        "restaurant-cooking-type": "Cuisine classique",
-        "restaurant-menu-price": "150-47 EUR"
-    },
-    {
-        "restaurant-name": "Christophe Hay - Fleur de Loire",
-        "restaurant-region": "Centre-Val-de-Loire",
-        "restaurant-city": "Blois",
-        "restaurant-distinction": "2 star",
-        "restaurant-chef": "Christophe Hay",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "218-98 EUR"
-    },
-    {
-        "restaurant-name": "Ivan Vautier",
-        "restaurant-region": "Normandie",
-        "restaurant-city": "Caen",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Ivan Vautier",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "120-48 EUR"
-    },
-    {
-        "restaurant-name": "Le Pr\u00e9 Catelan",
-        "restaurant-region": "\u00cele-de-France",
-        "restaurant-city": "Paris",
-        "restaurant-distinction": "3 star",
-        "restaurant-chef": "Fr\u00e9d\u00e9ric Anton",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "330-150 EUR"
-    },
-    {
-        "restaurant-name": "Table - Bruno Verjus",
-        "restaurant-region": "\u00cele-de-France",
-        "restaurant-city": "Paris",
-        "restaurant-distinction": "2 star",
-        "restaurant-chef": "Bruno Verjus",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "360-240 EUR"
-    },
-    {
-        "restaurant-name": "Septime",
-        "restaurant-region": "\u00cele-de-France",
-        "restaurant-city": "Paris",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Bertrand Gr\u00e9baut",
-        "restaurant-cooking-type": "Cuisine moderne",
-        "restaurant-menu-price": "110-65 EUR"
-    },
-    {
-        "restaurant-name": "Pur' - Jean-Fran\u00e7ois Rouquette",
-        "restaurant-region": "\u00cele-de-France",
-        "restaurant-city": "Paris",
-        "restaurant-distinction": "1 star",
-        "restaurant-chef": "Jean-Fran\u00e7ois Rouquette",
-        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
-        "restaurant-menu-price": "375-185 EUR"
-    },
-    {
         "restaurant-name": "Ursus",
         "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
         "restaurant-city": "Tignes",
@@ -5551,5 +5398,158 @@
         "restaurant-chef": "Philippe Girardon",
         "restaurant-cooking-type": "Cuisine moderne",
         "restaurant-menu-price": "155-95 EUR"
+    },
+    {
+        "restaurant-name": "Py-r",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "Toulouse",
+        "restaurant-distinction": "2 star",
+        "restaurant-chef": "Pierre Lambinon",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "128-98 EUR"
+    },
+    {
+        "restaurant-name": "Georges Blanc",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Vonnas",
+        "restaurant-distinction": "3 star",
+        "restaurant-chef": "Georges Blanc",
+        "restaurant-cooking-type": "Cuisine classique",
+        "restaurant-menu-price": "345-250 EUR"
+    },
+    {
+        "restaurant-name": "Auberge St-Laurent",
+        "restaurant-region": "Grand-Est",
+        "restaurant-city": "Sierentz",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Laurent Arbeit",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "119-42 EUR"
+    },
+    {
+        "restaurant-name": "Auberge au B\u0153uf",
+        "restaurant-region": "Grand-Est",
+        "restaurant-city": "Sessenheim",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Yannick Germain",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "106-42 EUR"
+    },
+    {
+        "restaurant-name": "Ambroisie",
+        "restaurant-region": "Auvergne-Rh\u00f4ne-Alpes",
+        "restaurant-city": "Saint-Didier-de-la-Tour",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Andr\u00e9 Taormina",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "140-85 EUR"
+    },
+    {
+        "restaurant-name": "L'\u00c9puisette",
+        "restaurant-region": "Provence-Alpes-C\u00f4te d'Azur",
+        "restaurant-city": "Marseille",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Guillaume Sourrieu",
+        "restaurant-cooking-type": "Poissons et fruits de mer",
+        "restaurant-menu-price": "155-80 EUR"
+    },
+    {
+        "restaurant-name": "Ogata",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Kazuki Watanabe",
+        "restaurant-cooking-type": "Cuisine japonaise",
+        "restaurant-menu-price": "170-65 EUR"
+    },
+    {
+        "restaurant-name": "La Li\u00e9geoise",
+        "restaurant-region": "Hauts-de-France",
+        "restaurant-city": "Wimereux",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Benjamin Delpierre",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "115-61 EUR"
+    },
+    {
+        "restaurant-name": "Accents Table Bourse",
+        "restaurant-region": "\u00cele-de-France",
+        "restaurant-city": "Paris",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Romain Mahi",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "85-52 EUR"
+    },
+    {
+        "restaurant-name": "Le Jardin Secret",
+        "restaurant-region": "Grand-Est",
+        "restaurant-city": "La Wantzenau",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Gilles Leininger",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "80-38 EUR"
+    },
+    {
+        "restaurant-name": "Michel Sarran",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "Toulouse",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Michel Sarran",
+        "restaurant-cooking-type": "Cuisine cr\u00e9ative",
+        "restaurant-menu-price": "195-75 EUR"
+    },
+    {
+        "restaurant-name": "Buerehiesel",
+        "restaurant-region": "Grand-Est",
+        "restaurant-city": "Strasbourg",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Eric Westermann",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "119-46 EUR"
+    },
+    {
+        "restaurant-name": "Au D\u00e9jeuner de Sousceyrac",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "Sousceyrac-en-Quercy",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Patrick Lagn\u00e8s",
+        "restaurant-cooking-type": "Cuisine classique",
+        "restaurant-menu-price": "100-30 EUR"
+    },
+    {
+        "restaurant-name": "La Table d'Aur\u00e9lien Largeau",
+        "restaurant-region": "Nouvelle-Aquitaine",
+        "restaurant-city": "Biarritz",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "175-110 EUR"
+    },
+    {
+        "restaurant-name": "1741",
+        "restaurant-region": "Grand-Est",
+        "restaurant-city": "Strasbourg",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "155-45 EUR"
+    },
+    {
+        "restaurant-name": "Au Crocodile",
+        "restaurant-region": "Grand-Est",
+        "restaurant-city": "Strasbourg",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Romain Brillat",
+        "restaurant-cooking-type": "Cuisine classique",
+        "restaurant-menu-price": "138-52 EUR"
+    },
+    {
+        "restaurant-name": "Le C\u00e9nacle",
+        "restaurant-region": "Occitanie",
+        "restaurant-city": "Toulouse",
+        "restaurant-distinction": "1 star",
+        "restaurant-chef": "Thomas Vonderscher",
+        "restaurant-cooking-type": "Cuisine moderne",
+        "restaurant-menu-price": "115-39 EUR"
     }
 ]

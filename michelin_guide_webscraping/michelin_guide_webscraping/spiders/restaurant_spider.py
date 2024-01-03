@@ -18,11 +18,8 @@ class RestaurantSpider(scrapy.Spider):
 
     # Method to handle the response from each request
     def parse(self, response):
-        # Extract the page number from the URL
-        page = response.url.split("/")[-2]
-
         # Generate a filename based on the page number
-        filename = f"./michelin_guide_webscraping/restaurant-{page}.html"
+        filename = f"./michelin_guide_restaurant.html"
 
         # Write the response body to a file
         Path(filename).write_bytes(response.body)

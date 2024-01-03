@@ -13,7 +13,7 @@ To execute the crawling process, assuming you are in the root directory of this 
 
 > scrapy crawl restaurant -O restaurant_scraped.json
 
-- **[michelin_guide_webscraping/restaurant-page.htm](michelin_guide_webscraping/restaurant-page.html)**: html file containing the crawled data from the website
+- **[michelin_guide_restaurant.htm](michelin_guide_restaurant.html)**: html file containing the crawled data from the website
 - **[restaurant_scraped.json](restaurant_scraped.json)**: json file containing the scraped data from the html file
 - **[michelin_guide_webscraping/preprocess_json.py](michelin_guide_webscraping/preprocess_json.py)**: Code defining how the scraped data in the json file formed from the parsing method of the spider is reorganized and stored.
 
