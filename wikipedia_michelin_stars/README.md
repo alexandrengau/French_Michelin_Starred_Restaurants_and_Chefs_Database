@@ -2,7 +2,7 @@
 
 ## Overview
 
-This subdirectory contains the code and data extracted from [Wikipedia's list of two and three starred restaurants](https://fr.wikipedia.org/wiki/Liste_des_restaurants_deux_et_trois_étoiles_du_Guide_Michelin) (as of January 2024).
+This subdirectory contains the code and the data extracted from [Wikipedia's list of two and three starred restaurants](https://fr.wikipedia.org/wiki/Liste_des_restaurants_deux_et_trois_étoiles_du_Guide_Michelin) (as of January 3rd, 2024).
 
 ### Contents and Usage
 

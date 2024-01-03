@@ -2,7 +2,7 @@
 
 ## Overview
 
-This subdirectory contains the code and data extracted from the [Michelin Guide website](https://guide.michelin.com/fr/fr) concerning French starred restaurants (as of January 2024).
+This subdirectory contains the code and the data extracted from the [Michelin Guide website](https://guide.michelin.com/fr/fr) concerning French starred restaurants (as of January 3rd, 2024).
 
 ### Contents and Usage
 
