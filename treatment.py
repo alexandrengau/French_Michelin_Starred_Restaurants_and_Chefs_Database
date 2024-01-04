@@ -2,15 +2,20 @@ import json
 import pandas as pd
 import re
 
+
+# Function to load a JSON file
 def load_json(path):
     """load the configuration file"""
     with open(path, 'r') as file:
         data = json.load(file)
     return data
 
+
+# Function for deep string normalization
 def deep_normalization(string):
     string = string.lower()
     string = string.replace('\n', '').strip()
+    # Replace specific characters with their normalized counterparts
     string = re.sub(r'[éèêëęėē]', 'e', string)
     string = re.sub(r'[àâªáäãåā]', 'a', string)
     string = re.sub(r'[îïìíįī]', 'i', string)
@@ -24,6 +29,8 @@ def deep_normalization(string):
     string = re.sub(r'\s+', ' ', string)
     return string
 
+
+# Function to process data from Wikidata
 def treat_data_wikidata(data):
     distinctions = []
     chefs = []
@@ -36,7 +43,7 @@ def treat_data_wikidata(data):
             distinction = deep_normalization(line["distinctionLabel"])
             if not distinction in distinctions:
                 distinctions.append(distinction)
-    
+
     dict = {}
     for chef in chefs:
         dict[chef] = {}
@@ -45,7 +52,6 @@ def treat_data_wikidata(data):
         for distinction in distinctions:
             dict[chef][distinction] = False
 
-    
     for line in data:
         chef = deep_normalization(line["chefLabel"])
         if "birthdate" in line : 
@@ -59,6 +65,8 @@ def treat_data_wikidata(data):
     df = pd.DataFrame(dict).transpose()
     return dict, df
 
+
+# Function to process data from the Michelin Guide
 def treat_data_michelin(data):
     dict = {}
     nameskeys = ["chef", "region", "city", "distinction", "cooking-type", "menu-price"]
@@ -69,6 +77,8 @@ def treat_data_michelin(data):
     df = pd.DataFrame(dict).transpose()
     return dict, df
 
+
+# Function to process data from Wikipedia
 def treat_data_wikipedia(data):
     dict = {}
     nameskeys = ["chef", "region", "city", "distinction"]
@@ -79,6 +89,8 @@ def treat_data_wikipedia(data):
     df = pd.DataFrame(dict).transpose()
     return dict, df
 
+
+# Function to merge data from different sources
 def merging(wikidata_df, michelin_df, wikipedia_df, wikidata_dict, michelin_dict, wikipedia_dict):
     restaurants_dict = {}
     chefs_dict = {}
@@ -132,7 +144,6 @@ def merging(wikidata_df, michelin_df, wikipedia_df, wikidata_dict, michelin_dict
             chefs_dict[s_chef]["id"] = chefs_ids
             chefs_ids +=1
 
-
         restaurants_dict[restaurant]["current-chef-id"] = chefs_dict[c_chef]["id"]
         restaurants_dict[restaurant]["starred-chef-id"] = chefs_dict[s_chef]["id"]
 
@@ -145,6 +156,7 @@ def merging(wikidata_df, michelin_df, wikipedia_df, wikidata_dict, michelin_dict
     return restaurants_dict, restaurants_df, chefs_dict, chefs_df
 
 
+# Main function
 def main():
     path_wikidata = r"wikidata_chefs/chefs.json"
     data = load_json(path_wikidata)
@@ -163,6 +175,7 @@ def main():
     restaurants_df.to_json('final_tables/restaurants_table.json', orient='index',indent=4)
     print("Saving the chef table")
     chefs_df[['id', 'birth-date', 'death-date']].to_json('final_tables/chefs_table.json', orient='index',indent=4) #à changer mais sinon c'est trop lourd, choisir un nombre limité de distinctions psq là y'en a 294
+
 
 if __name__ == '__main__':
     main()

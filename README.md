@@ -6,8 +6,10 @@
 
 This project is the final homework assignment for the Data Acquisition, Extraction & Storage class of the IASD (Artificial Intelligence, Systems and Data) Master Program 2023/2024, at PSL Research University (Université PSL).
 
-*The project achieved the following objectives:*
-- *insert what the project achieves*
+*The project successfully achieved the following objectives:*
+- Web-scraped and compiled data from the Michelin Guide website, enriching it with Wikipedia's list of two and three-starred restaurants. 
+- Extracted chef information from Wikidata's SPARQL query service to enhance the dataset with comprehensive details about chefs. 
+- Integrated, normalized, and merged data from multiple sources, creating structured tables for French Michelin-starred restaurants and chefs.
 
 ## General Information
 
@@ -29,8 +31,23 @@ The [wikipedia_michelin_stars](wikipedia_michelin_stars) subdirectory contains t
 *More information about this part of the project : [wikipedia_michelin_stars/README.md](wikipedia_michelin_stars/README.md)*
 
 - **wikidata_chefs** :
-The [wikidata_chefs](wikidata_chefs) subdirectory contains the data extracted from [Wikidata's SPARQL query service](https://query.wikidata.org) concerning French chefs and their distinctions (as of January 2024).
+The [wikidata_chefs](wikidata_chefs) subdirectory contains the data extracted from [Wikidata's SPARQL query service](https://query.wikidata.org) concerning chefs (as of January 4th, 2024).
 *More information about this part of the project : [wikidata_chefs/README.md](wikidata_chefs/README.md)*
+
+- **final_tables** :
+The [final_tables](final_tables) subdirectory contains the final database tables of the project concerning French Michelin-starred restaurants and chefs.
+
+- **treatment.py** :
+The [treatment.py](treatment.py) script integrates and normalizes chef and restaurant data from Wikidata, the Michelin Guide, and Wikipedia, creating structured tables, ultimately saving the final data tables as [final_tables/chefs_table.json](final_tables/chefs_table.json) and [final_tables/restaurants_table.json](final_tables/restaurants_table.json).
+
+### Usage
+
+To recreate the databases from A to Z using the code hosted on this GitHub, please :
+- Install the required libraries
+  > pip install -r requirements.txt
+- Follow the instructions in the READMEs of the three subdirectories ([michelin_guide_webscraping/README.md](michelin_guide_webscraping/README.md), [wikipedia_michelin_stars/README.md](wikipedia_michelin_stars/README.md), [wikidata_chefs/README.md](wikidata_chefs/README.md))
+- Execute the treatment.py script to concatenate, merge, and save the two tables constituting the database
+  > python treatment.py
 
 ---
 
