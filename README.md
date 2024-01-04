@@ -1,4 +1,4 @@
-# French Michelin Starred Restaurant Database - Web Scraping and Data Querying Project
+# French Michelin Starred Restaurants and Chefs Database - Web Scraping and Data Querying Project
 
 ## IASD Master Program 2023/2024 - PSL Research University
 
