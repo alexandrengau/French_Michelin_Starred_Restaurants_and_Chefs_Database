@@ -160,9 +160,9 @@ def main():
 
     restaurants_dict, restaurants_df, chefs_dict, chefs_df = merging(df_wikidata, df_michelin, df_wikipedia, dict_wikidata, dict_michelin, dict_wikipedia)
     print("Saving of the restaurant table")
-    restaurants_df.to_json('final_tables/restaurants_table.json', orient='index')
+    restaurants_df.to_json('final_tables/restaurants_table.json', orient='index',indent=4)
     print("Saving the chef table")
-    chefs_df[['id', 'birth-date', 'death-date']].to_json('final_tables/chefs_table.json', orient='index') #à changer mais sinon c'est trop lourd, choisir un nombre limité de distinctions psq là y'en a 294
+    chefs_df[['id', 'birth-date', 'death-date']].to_json('final_tables/chefs_table.json', orient='index',indent=4) #à changer mais sinon c'est trop lourd, choisir un nombre limité de distinctions psq là y'en a 294
 
 if __name__ == '__main__':
     main()
